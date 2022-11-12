@@ -1,2 +1,2 @@
 # Scraping-Twitter
-We implemented data and queries in SQL and created a model representing relationships and scripted a bot that scraps Twitter to gather the tweet data for us.
+We created a database with use cases and queries in SQL, a model representing relationships, and scripted a bot that scraps Twitter to gather the tweet data for us.
